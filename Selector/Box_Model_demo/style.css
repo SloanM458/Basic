@@ -1,0 +1,34 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+h1{
+    color: rebeccapurple;
+    display: inline-block;
+}
+
+a {
+    display: block;
+}
+
+
+.box{
+    border: 7px solid rgb(107, 198, 147);
+    height: 30px;
+    width: 30px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    margin: 50px;
+}
+
+/* BORDERS:
+Must include 3 things:
+1) Size (ex. 2 px)
+2) Style (solid, dashed, etc)
+3) Color (Blue, red etc.)
+
+separate by spaces!
+*/
